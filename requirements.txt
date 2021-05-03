@@ -1,0 +1,2 @@
+-i https://pypi.mirrors.ustc.edu.cn/simple/
+Django==1.11.11
